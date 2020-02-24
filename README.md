@@ -94,7 +94,7 @@ conversation.then(data => {
           );
         });
 ```
-Within the axios request, remember to catch any errors:
+Remember to catch any errors:
 
 ```
 .catch(error => {
