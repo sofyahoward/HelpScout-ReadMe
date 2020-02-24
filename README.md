@@ -10,7 +10,7 @@
 Custom Apps enable you to pull data from a 3rd party source into the customer sidebar. Ideally, it would display information that adds context about the customer and your relationship; such as account level/plan, order history, how long they have been a customer or anything else that’s important to your business.
 </br>
 <h1 style="float: right;">Overview of Helpscount - Shopify Integration</h1> 
-<p >This Helpscout- Shopify integration works in the follwoing manner: when you receive an email in your HelpScount inbox and proceed to open the email, this dynamic application pulls the email address of the sender. 
+<p >This Helpscout- Shopify integration works in the follwoing manner: when you receive an email in your HelpScount inbox and proceed to open email, this dynamic application pulls the email address of the sender. 
 
 Then, this application utilizes the email address to compare data in your Shopfy account and checks if a customer with aforementioned email address exists. The data returned from Shopify is displayed in the customer sidebar. This application is designed to assist customer service representatives when providing priority support to subscibed clients. 
 
