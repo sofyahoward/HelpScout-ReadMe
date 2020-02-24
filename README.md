@@ -64,7 +64,7 @@ base64
 
 When you open an email, the conversation is loaded and your custom App renders. Help Scout will build a JSON message with conversation data and call your endpoint URL with a POST request. 
 
-We will get the customer email from this data, and store it in a variable `var helpScoutEmail`.
+Once you get the customer email from this data, store it in a variable `var helpScoutEmail`.
 
 # Comparing Data with Shopify Database
 To get access to Shopify Database, you will first need to create a Shopify Application in your Partner Dashboard. You can use [this guide](https://shopify.dev/tutorials/manage-apps-with-partner-dashboard) to set up your first application in Shopify.
